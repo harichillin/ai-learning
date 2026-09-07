@@ -1,5 +1,4 @@
-# ai-learning
-My learning journey through Artificial Intelligence, Machine Learning, Generative AI, and LLMs.
+
 # AI Learning Journey
 
 This repository contains my notes, experiments, and projects as
